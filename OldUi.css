@@ -3,11 +3,11 @@
  * @author Skekung
  * @authorLink https://github.com/Skektec
  * @description A theme to restore the old look of discord.
- * @license MIT
+ * @license GPL-3.0
  * @version 1.0
  */
 
-@import url("https://github.com/Skektec");
+@import url("https://github.com/Skektec/DiscordOldUi");
 
 /* Variables */
 .visual-refresh {
@@ -188,7 +188,7 @@ div[class*="buttons_"] {
 /* Fix profile section to extend to border */
 .container_ca50b9 {
   margin: 0;
-  padding: 10px 10px 0 10px; /* padding on top and sides but not bottom */
+  padding: 10px 10px 0 10px;
   border-radius: 0 !important;
 }
 
